@@ -7,6 +7,8 @@ Repository for NodeSchool Hamburg. Have a question? [Open an issue](https://gith
 
 The Website is hosted on the [gh-pages branch](https://github.com/nodeschool/hamburg/tree/gh-pages).
 
+The Website is published on: [http://nodeschool.io/hamburg/](http://nodeschool.io/hamburg/)
+
 ---------------
 
 ## Other interesting Node.js related stuff in Hamburg
