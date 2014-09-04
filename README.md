@@ -1,5 +1,6 @@
 # NodeSchool Hamburg Chapter
 
+![hamburg](logo.svg)
 
 [![Gitter chat](https://badges.gitter.im/nodeschool/hamburg.png)](https://gitter.im/nodeschool/hamburg)
 
