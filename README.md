@@ -12,4 +12,5 @@ The Website is hosted on the [gh-pages branch](https://github.com/nodeschool/ham
 ## Other interesting Node.js related stuff in Hamburg
 
 [node.HH - Node.js User Group](http://www.meetup.com/Node-HH/)
+
 [HH.js](http://www.meetup.com/hamburg-js/)
