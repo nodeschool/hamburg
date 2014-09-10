@@ -6,6 +6,10 @@
 
 Repository for NodeSchool Hamburg. Have a question? [Open an issue](https://github.com/nodeschool/hamburg/issues).
 
+---------------
+## Join us >>[put yourself here](https://github.com/nodeschool/hamburg/issues/5) <<
+---------------
+
 The Website is hosted on the [gh-pages branch](https://github.com/nodeschool/hamburg/tree/gh-pages).
 
 ---------------
