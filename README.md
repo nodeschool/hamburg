@@ -1,5 +1,7 @@
 # NodeSchool Hamburg Chapter
 
+**Next Event is on 8. November**
+
 ![hamburg](logo.png)
 
 [![Gitter chat](https://badges.gitter.im/nodeschool/hamburg.png)](https://gitter.im/nodeschool/hamburg)
