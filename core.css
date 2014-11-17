@@ -1,0 +1,242 @@
+/* RESET */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+
+/* BEGIN CORE FILE */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Helvetica, Arial;
+  font-size: 16px;
+  line-height: 1.54em;
+  color: rgb(100,100,100);
+}
+section, header, footer {
+  padding: 80px 40px 80px 40px;
+}
+
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 954px;
+}
+.wrapper:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.hl-1, .hl-2, .hl-3, .hl-4 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+.hl-1 {
+  font-size: 2.666rem;
+  line-height: 2.666rem;
+}
+.hl-2 {
+  font-weight: 300;
+  font-size: 1.666rem;
+  line-height: 2rem;
+  margin-bottom: 12px;
+}
+p {
+  margin: 12px 0 24px 0;
+}
+a:link, a:visited, a:active {
+  text-decoration: underline;
+  color: rgb(100,100,100);
+}
+a:hover, a:focus {
+  color: rgb(200,200,200);
+}
+
+
+header {
+  min-height:320px;
+  background-image: url("images/header-background.jpg");
+  background-size: cover;
+  background-position: center;
+  color: rgb(255,255,255);
+  text-align: center;
+}
+
+
+#description {
+}
+.one_third {
+  float: none;
+  width: 100%;
+  margin-right: 0px;
+  overflow:hidden;
+  border-top: 1px solid rgb(220,220,220);
+  padding-top: 40px;
+}
+.one_third:first-child {
+  padding-top: 40px;
+  border-top: none ;
+}
+.one_third img {
+  width: 100%;
+}
+.imagebox {
+  margin-bottom: 40px;
+}
+
+#event {
+  text-align: center;
+  color: rgb(255,255,255);
+  background-image: url("images/event-background.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+
+#feedback {
+  color: rgb(255,255,255);
+  background: rgb(36,144,206);
+}
+#feedback a:link, #feedback a:visited, #feedback a:active {
+  color: rgb(255,255,255);
+}
+#feedback a:hover, #feedback a:focus {
+  color: rgb(161,207,234);
+}
+
+
+footer {
+  background: rgb(60,60,60);
+}
+
+
+
+
+/* MEDIUM 0-560 */
+
+@media all and (min-width: 560px) {
+  .textbox {
+    float:left;
+    width: 66.666%;
+  }
+  .one_third {
+    float: none;
+    width: 100%;
+    overflow:hidden;
+    margin-right: 0px;
+    border-top: 1px solid rgb(220,220,220);
+  }
+  .one_third:first-child {
+    border-top: none ;
+  }
+  .imagebox {
+    float: left;
+    width: 33.333%;
+  }
+  #logo {
+    margin: 0 auto;
+    width: 460px;
+    height: 182px;
+  }
+
+  #statement {
+    width: 100%;
+  }
+
+}
+
+/* DESKTOP 989px*/
+
+@media all and (min-width: 989px) {
+  body {
+    font-size: 14px;
+  }
+  section, header, footer {
+    padding: 80px 10px 80px 10px;
+  }
+
+  .hl-1 {
+    font-size: 4.28rem;
+    line-height: 4.28rem;
+  }
+  .hl-2 {
+    font-weight: 300;
+    font-size: 2.54rem;
+    line-height: 2.54rem;
+    margin-bottom: 12px;
+  }
+
+  #statement {
+    margin: 0 auto;
+    width: 660px;
+  }
+
+  header {
+    min-height: 480px;
+  }
+
+  .one_third {
+    float:left;
+    width:298px;
+    margin: 0 0 0 30px;
+    border-top: none;
+  }
+  .one_third:first-child {
+    margin-left: 0;
+  }
+  .imagebox, .textbox {
+    width: 100%;
+    float: none;
+  }
+}
+
+
+
+
+
+/* 550px small */
