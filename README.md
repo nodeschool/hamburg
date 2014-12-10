@@ -1,6 +1,6 @@
 # NodeSchool Hamburg Chapter
 
-**Next Event is on 8. November**
+**Next Event will [be announced soon](http://nodeschool.io/hamburg/)**
 
 ![hamburg](logo.png)
 
