@@ -107,9 +107,11 @@ header {
   text-align: center;
 }
 
-
-#description {
+header a, header a:link, header a:visited, header a:active,
+#event a {
+  color: rgb(255,255,255);
 }
+
 .one_third {
   float: none;
   width: 100%;
