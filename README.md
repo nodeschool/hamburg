@@ -2,7 +2,7 @@
 
 **Next Event will [be at 08. February 2015](http://nodeschool.io/hamburg/)**
 
-![hamburg](logo.png)
+![hamburg](https://github.com/nodeschool/hamburg/blob/master/logo.png)
 
 [![Gitter chat](https://badges.gitter.im/nodeschool/hamburg.png)](https://gitter.im/nodeschool/hamburg)
 
