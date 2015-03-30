@@ -1,6 +1,6 @@
 # NodeSchool Hamburg Chapter
 
-**Next Event will [be at 08. February 2015](http://nodeschool.io/hamburg/)**
+**Next Event will [be soon announced](http://nodeschool.io/hamburg/)**
 
 ![hamburg](https://github.com/nodeschool/hamburg/blob/master/logo.png)
 
