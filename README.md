@@ -4,7 +4,7 @@
 
 ![hamburg](https://github.com/nodeschool/hamburg/blob/master/logo.png)
 
-[![Gitter chat](https://badges.gitter.im/nodeschool/hamburg.png)](https://gitter.im/nodeschool/hamburg)
+[We are on Slack! Check in! goto  #nodeschoolhh](http://bit.ly/web-hh)
 
 Repository for NodeSchool Hamburg. Have a question? [Open an issue](https://github.com/nodeschool/hamburg/issues).
 
